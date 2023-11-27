@@ -1,5 +1,14 @@
 # @medusajs/admin
 
+## 7.1.8
+
+### Patch Changes
+
+- [#5676](https://github.com/medusajs/medusa/pull/5676) [`02ea9ac`](https://github.com/medusajs/medusa/commit/02ea9ac3ac87f1091c6f21c689ccfc55080b17cc) Thanks [@pKorsholm](https://github.com/pKorsholm)! - fix(admin-ui): delete edit variant prices in favor of bulk editor
+
+- Updated dependencies [[`07934cd`](https://github.com/medusajs/medusa/commit/07934cdaac2f3b49a935e9701ffa7d5cf1381847), [`f4c489f`](https://github.com/medusajs/medusa/commit/f4c489fb85aaee605b60c527817f62cfdb2f3140), [`02ea9ac`](https://github.com/medusajs/medusa/commit/02ea9ac3ac87f1091c6f21c689ccfc55080b17cc), [`5f6751a`](https://github.com/medusajs/medusa/commit/5f6751a61f11b901e4916d16b62607cda6d42032)]:
+  - @medusajs/admin-ui@2.1.9
+
 ## 7.1.7
 
 ### Patch Changes

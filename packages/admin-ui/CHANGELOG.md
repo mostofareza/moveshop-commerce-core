@@ -1,5 +1,20 @@
 # @medusajs/admin-ui
 
+## 2.1.9
+
+### Patch Changes
+
+- [#5710](https://github.com/medusajs/medusa/pull/5710) [`07934cd`](https://github.com/medusajs/medusa/commit/07934cdaac2f3b49a935e9701ffa7d5cf1381847) Thanks [@kasperkristensen](https://github.com/kasperkristensen)! - fix(admin-ui): Ensure that the prices step is disabled until at least one product is selected in PriceList forms
+
+- [#5707](https://github.com/medusajs/medusa/pull/5707) [`f4c489f`](https://github.com/medusajs/medusa/commit/f4c489fb85aaee605b60c527817f62cfdb2f3140) Thanks [@kasperkristensen](https://github.com/kasperkristensen)! - fix(admin-ui): Fix an issue where if product.categories was null the details page would crash
+
+- [#5676](https://github.com/medusajs/medusa/pull/5676) [`02ea9ac`](https://github.com/medusajs/medusa/commit/02ea9ac3ac87f1091c6f21c689ccfc55080b17cc) Thanks [@pKorsholm](https://github.com/pKorsholm)! - fix(admin-ui): delete edit variant prices in favor of bulk editor
+
+- [#5726](https://github.com/medusajs/medusa/pull/5726) [`5f6751a`](https://github.com/medusajs/medusa/commit/5f6751a61f11b901e4916d16b62607cda6d42032) Thanks [@kasperkristensen](https://github.com/kasperkristensen)! - fix(admin-ui): Makes it possible to scroll overflow on the Y-axis in the /products/:id bulk editor
+
+- Updated dependencies [[`b25b29f`](https://github.com/medusajs/medusa/commit/b25b29fe7ba3bc9fca8da7a6b10461437a3e4d2d)]:
+  - @medusajs/ui@2.2.3
+
 ## 2.1.8
 
 ### Patch Changes

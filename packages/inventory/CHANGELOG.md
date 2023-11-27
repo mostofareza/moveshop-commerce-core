@@ -1,4 +1,15 @@
 # @medusajs/inventory
+
+## 1.11.4
+
+### Patch Changes
+
+- [#5713](https://github.com/medusajs/medusa/pull/5713) [`18afe0b`](https://github.com/medusajs/medusa/commit/18afe0b9addb33ec2e3b285651b4eb1ef8065845) Thanks [@pKorsholm](https://github.com/pKorsholm)! - fix(stock-location, inventory, medusa, types, utils): allow buildQuery to take null as an argument in order to prevent default pagination
+
+- Updated dependencies [[`18afe0b`](https://github.com/medusajs/medusa/commit/18afe0b9addb33ec2e3b285651b4eb1ef8065845), [`dc5750d`](https://github.com/medusajs/medusa/commit/dc5750dd665a91d35c0246ba83c7f90ec74907f4)]:
+  - @medusajs/utils@1.11.1
+  - @medusajs/modules-sdk@1.12.4
+
 # @medusajs/inventory
 
 ## 1.11.3
